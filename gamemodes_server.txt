@@ -1,0 +1,49 @@
+"GameModes.txt"
+{
+    "gameTypes"
+    {
+        "classic"
+        {
+            "gameModes"
+            {
+                "casual"
+                {
+                    "mapgroupsMP"
+                    {
+                        "dm_group" ""
+                    }
+                }
+            }
+        }
+    }
+
+    "mapgroups"
+    {
+        "random_classic"
+        {
+            "maps"
+            {
+                // Replace maps below
+                "cs_cruise"            ""
+                "de_coast"            ""
+                "de_empire"            ""
+                "de_mikla"            ""
+                "de_royal"            ""
+                "de_santorini"        ""
+                "de_tulip"            ""
+            }
+        }
+
+        "dm_group"
+        {
+            "maps"
+            {
+                "de_dust2"            	""
+                "de_cache"     		""
+		"de_inferno"		""
+		"de_mirage"		""
+		"de_train"		""
+            }
+        }
+    }
+}

@@ -1,0 +1,7 @@
+"lightmappedgeneric" {
+    "$basetexture" "decals\custom\qqgroup\qrcode"
+    "$translucent" 1
+    "$decal" 1
+    "$decalscale" 0.2000000
+    "$surfaceprop" "Default"
+}

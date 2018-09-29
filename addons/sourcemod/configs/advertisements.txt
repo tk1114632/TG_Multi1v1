@@ -1,0 +1,51 @@
+"Advertisements"
+{
+    "1"
+    {
+        "chat"		"{green}[TG Pro] {default}欢迎来到 {lightgreen}[The Global职业训练服], {default}QQ群：{red}467598445"
+    }
+    "2"
+    {
+        "chat"		"{green}[TG Pro] {default}TG手枪死斗服 Pistol FFA DM: {lightgreen}[212.64.32.99:27015]" 
+    }
+   "3"
+    {
+	 "chat"		"{green}[TG Pro] {default}TG长枪死斗服 Gun FFA DM: {lightgreen}[47.97.198.21:27015]"
+    }
+    "4"
+    {
+	 "chat"		"{green}[TG Pro] {default}TG回防服#1 Retakes#1: {lightgreen}[47.100.58.53:27016]"
+    }
+    "5"
+    {
+	 "chat"		"{green}[TG Pro] {default}TG回防服#2 Retakes#2: {lightgreen}[47.100.223.0:27016]"
+    }
+    "6"
+    {
+	 "chat"		"{green}[TG Pro] {default}TG回防服#3 Retakes#3: {lightgreen}[101.132.101.13:27016]"
+    }
+    "7"
+    {
+	 "chat"		"{green}[TG Pro] {default}TG竞技场 Multi 1v1: {lightgreen}[47.99.89.83:27015]"
+    }
+
+    "8"
+    {
+	 "chat"		"{green}[TG Pro] {default}按 {lightgreen}Y {default}输入: {lightgreen}!gun {default}切换武器"
+    }
+   "9"
+    {
+        "chat"		"{green}[TG Pro] {default}按 {lightgreen}Y {default}输入: {lightgreen}!rankme {default}查看排名数据"
+    }
+   "10"
+    {
+        "chat"		"{green}[TG Pro] {lightgreen}[The Global职业之路] {default}QQ群: {red}467598445 {default} Steam组：{bluegrey}https://steamcommunity.com/groups/tgprotraining"
+    }
+    "11"
+    {
+        "chat"		"{green}[TG Pro] {purple}[记分规则] {default}每击杀一名玩家加 {green}3 {default}分 击杀一名BOT加  {green}1 {default}分 - 爆头额外加 {green}1 {default}分"
+    }
+
+}
+
+
